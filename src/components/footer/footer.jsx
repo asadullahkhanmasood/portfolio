@@ -16,11 +16,19 @@ function Footer() {
           </div>
 
           <div className="icon_bar flex items-center justify-between mx-20">
-            <span className="w-10 bg-red-400 h-11 flex items-center justify-center mx-1  ">i</span>
-            <span className="w-10 bg-red-400 h-11 items-center flex mx-1">i</span>
+            <span className="w-10 white bg-slate-300 h-11 flex items-center justify-center mx-1 rounded-3xl ">
+              <i className="fa-brands fa-github"></i>
+            </span>
+           <span className="w-10 white bg-slate-300 h-11 flex items-center justify-center mx-1 rounded-3xl ">
+              <i className="fa-brands fa-facebook"></i>
+            </span>
 
-            <span className="w-10 bg-red-400 h-11 items-center  flex mx-1">i</span>
-                <span className='w-10 bg-red-400 h-11 items-center flex mx-1  '>i</span>
+          <span className="w-10 white bg-slate-300 h-11 flex items-center justify-center mx-1 rounded-3xl ">
+              <i className="fa-brands fa-telegram"></i>
+            </span>
+                <span className="w-10 white bg-slate-300 h-11 flex items-center justify-center mx-1 rounded-3xl ">
+              <i className="fa-brands fa-github"></i>
+            </span>
           </div>
         </div>
 
